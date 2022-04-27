@@ -16,8 +16,8 @@ else:
 k = 1000000000
 eth = 1000000000000000000
 
-account_1 = "" # from adress
-account_2 = "" # to adress
+account_1 = "" # from address
+account_2 = "" # to address
 
 amount = 0.000054 # BNB amount for transaction
 
