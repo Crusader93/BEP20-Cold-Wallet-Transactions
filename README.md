@@ -6,7 +6,7 @@ Requirements:<br/>
 3. Pre-installed Metamask or Mnemonic Code Converter BIP39 on the device without internet access.<br/>
 <br/>
 How it works:<br/>
-We will create a unsigned transaction on a device with Internet access, and we will sign this transaction with a private key on a device without Internet access, then we will import this transaction to the our online device and send transaction to the blockchain.<br/>
+We will create a unsigned transaction on a device with Internet access, and we will sign this transaction with a private key on a device without Internet access, then we will export this transaction to the our online device and send transaction to the blockchain.<br/>
 Thus, no one will ever know our private key or seed phrase.<br/>
 <br/>
 This is an ideal way to store stablecoins USDT, BUSD or other on a blockchain where transfer fees are low (0.000105 BNB now - 5 GWEI). The method is suitable for you if you do not like bitcoin and its unstable price.<br/>
