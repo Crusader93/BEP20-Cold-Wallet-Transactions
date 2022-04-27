@@ -1,5 +1,13 @@
 Cold Wallet for Binance Smart Chain BEP20<br/>
 <br/>
+Do not forget that the minimum gas fee on the BSC is 5 GWEI or 0.000105 BNB and 10 GWEI or 0.00021 BNB on the BSC - Testnet<br/>
+<br/>
+Use https://bscscan.com for BSC<br/>
+Use https://testnet.bscscan.com for BSC-Testnet<br/>
+<br/>
+bsc url: https://bsc-dataseed1.binance.org:443<br/>
+bsc testnet url: https://data-seed-prebsc-1-s1.binance.org:8545/<br/>
+<br/>
 Requirements:<br/>
 1. Smartphone or PC that will never connect to the Internet again.<br/>
 2. 2nd PC or smartphone with internet access.<br/>
