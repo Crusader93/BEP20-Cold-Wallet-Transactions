@@ -19,9 +19,8 @@ Requirements:<br/>
 1. Smartphone or PC that will never connect to the Internet again.<br/>
 2. 2nd PC or smartphone with internet access.<br/>
 3. Pre-installed Metamask or Mnemonic Code Converter BIP39 on the device without internet access.<br/>
-4. <br/>
-Instructions:<br/>
 <br/>
+Instructions:<br/>
 1. Install Python on your two devices.<br/>
 2. Install the 'web3' packages for Python https://pypi.org/project/web3/<br/>
 3. Create a Metamask wallet on an offline device without Internet or use html from Mnemonic Code Converter BIP39 (https://github.com/iancoleman/bip39)<br/>
