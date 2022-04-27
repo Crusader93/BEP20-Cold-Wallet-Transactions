@@ -9,6 +9,10 @@ Use https://testnet.bscscan.com for BSC-Testnet<br/>
 bsc url: https://bsc-dataseed1.binance.org:443<br/>
 bsc testnet url: https://data-seed-prebsc-1-s1.binance.org:8545/<br/>
 <br/>
+Token transaction:<br/>
+Use 'chainId': 56 for BSC<br/>
+Use 'chainId': 97 for BSC-Testnet<br/>
+<br/>
 How it works:<br/>
 We will create a unsigned transaction on a device with Internet access, then we will sign this transaction with a private key on a device without Internet access, then we will export this signed transaction to the our online device and send transaction to the blockchain.<br/>
 Thus, no one will ever know our private key or seed phrase.<br/>
