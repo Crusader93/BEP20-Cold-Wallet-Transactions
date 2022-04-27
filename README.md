@@ -9,17 +9,17 @@ Use https://testnet.bscscan.com for BSC-Testnet<br/>
 bsc url: https://bsc-dataseed1.binance.org:443<br/>
 bsc testnet url: https://data-seed-prebsc-1-s1.binance.org:8545/<br/>
 <br/>
-Requirements:<br/>
-1. Smartphone or PC that will never connect to the Internet again.<br/>
-2. 2nd PC or smartphone with internet access.<br/>
-3. Pre-installed Metamask or Mnemonic Code Converter BIP39 on the device without internet access.<br/>
-<br/>
 How it works:<br/>
 We will create a unsigned transaction on a device with Internet access, then we will sign this transaction with a private key on a device without Internet access, then we will export this signed transaction to the our online device and send transaction to the blockchain.<br/>
 Thus, no one will ever know our private key or seed phrase.<br/>
 <br/>
 This is an ideal way to store stablecoins USDT, BUSD or other on a blockchain where transfer fees are low (0.000105 BNB now - 5 GWEI). The method is suitable for you if you do not like bitcoin and its unstable price.<br/>
 <br/>
+Requirements:<br/>
+1. Smartphone or PC that will never connect to the Internet again.<br/>
+2. 2nd PC or smartphone with internet access.<br/>
+3. Pre-installed Metamask or Mnemonic Code Converter BIP39 on the device without internet access.<br/>
+4. <br/>
 Instructions:<br/>
 <br/>
 1. Install Python on your two devices.<br/>
