@@ -16,7 +16,7 @@ Instructions:<br/>
 1. Install Python on your two devices.<br/>
 2. Install the 'web3' packages for Python https://pypi.org/project/web3/<br/>
 3. Create a Metamask wallet on an offline device without Internet or use html from Mnemonic Code Converter BIP39 (https://github.com/iancoleman/bip39)<br/>
-4. Export the private key account_1 (private_key) to the script on offline device '2-BNB-OFFLINE-SIGN-TRANSACTION.py'<br/>
+4. Export the private key for account_1 (private_key) to the script on offline device '2-BNB-OFFLINE-SIGN-TRANSACTION.py'<br/>
 5. Set wallet addresses in '1-BNB-ONLINE-CREATE-TRANSACTION.py' script - account_1 and account_2<br/>
 6. Enter BNB amount - amount<br/>
 7. If you want to send a tokens, then use the scripts from the 'BEP20-Token-Transaction' folder. The sequencing is the same, but don't forget to enter contract_adress and contract abi (abi1) in the '1-TOKEN-ONLINE-CREATE-TRANSACTION.py' script<br/>
