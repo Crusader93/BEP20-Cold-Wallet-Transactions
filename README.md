@@ -1,6 +1,6 @@
 Cold Wallet for Binance Smart Chain BEP20<br/>
 [![Python WEB3 Binance Smart Chain BEP20 - True Cold Wallet](https://github.com/Crusader93/BEP20-Cold-Wallet-Transactions/blob/master/1.jpg)](https://www.youtube.com/watch?v=P1CTAX8fb2E)<br/>
-<br/>
+Cold Wallet for Binance Smart Chain BEP20<br/>
 Do not forget that the minimum gas fee on the BSC is 5 GWEI or 0.000105 BNB and 10 GWEI or 0.00021 BNB on the BSC - Testnet<br/>
 <br/>
 Use https://bscscan.com for BSC<br/>
