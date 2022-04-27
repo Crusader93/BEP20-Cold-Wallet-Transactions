@@ -21,6 +21,7 @@ Requirements:<br/>
 3. Pre-installed Metamask or Mnemonic Code Converter BIP39 on the device without internet access.<br/>
 <br/>
 Instructions:<br/>
+<br/>
 1. Install Python on your two devices.<br/>
 2. Install the 'web3' packages for Python https://pypi.org/project/web3/<br/>
 3. Create a Metamask wallet on an offline device without Internet or use html from Mnemonic Code Converter BIP39 (https://github.com/iancoleman/bip39)<br/>
