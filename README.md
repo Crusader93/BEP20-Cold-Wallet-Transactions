@@ -1,3 +1,4 @@
+Video:<br/>
 [![Python WEB3 Binance Smart Chain BEP20 - True Cold Wallet - How to send a BNB](https://github.com/Crusader93/BEP20-Cold-Wallet-Transactions/blob/master/1.jpg)](https://www.youtube.com/watch?v=P1CTAX8fb2E)<br/>
 <br/>
 Cold Wallet for Binance Smart Chain BEP20<br/>
