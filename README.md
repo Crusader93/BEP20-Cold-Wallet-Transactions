@@ -9,6 +9,8 @@ Use https://testnet.bscscan.com for BSC-Testnet<br/>
 bsc url: https://bsc-dataseed1.binance.org:443<br/>
 bsc testnet url: https://data-seed-prebsc-1-s1.binance.org:8545/<br/>
 <br/>
+https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain<br/>
+<br/>
 Token transaction:<br/>
 Use 'chainId': 56 for BSC<br/>
 Use 'chainId': 97 for BSC-Testnet<br/>
