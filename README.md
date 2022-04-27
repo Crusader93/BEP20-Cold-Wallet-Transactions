@@ -1,4 +1,5 @@
 Cold Wallet for Binance Smart Chain BEP20<br/>
+https://www.youtube.com/watch?v=P1CTAX8fb2E<br/>
 <br/>
 Do not forget that the minimum gas fee on the BSC is 5 GWEI or 0.000105 BNB and 10 GWEI or 0.00021 BNB on the BSC - Testnet<br/>
 <br/>
