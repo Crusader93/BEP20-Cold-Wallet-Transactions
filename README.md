@@ -36,7 +36,7 @@ Instructions:<br/>
 4. Export the private key for account_1 (private_key) to the script on offline device '2-BNB-OFFLINE-SIGN-TRANSACTION.py'<br/>
 5. Set wallet addresses in '1-BNB-ONLINE-CREATE-TRANSACTION.py' script - account_1 and account_2<br/>
 6. Enter BNB amount - amount<br/>
-7. If you want to send a tokens, use the scripts from the 'BEP20-Token-Transaction' folder. The sequencing is the same, but don't forget to enter contract_adress and contract abi (abi1) in the '1-TOKEN-ONLINE-CREATE-TRANSACTION.py' script<br/>
+7. If you want to send a tokens, use the scripts from the 'BEP20-Token-Transaction' folder. The sequencing is the same, but don't forget to enter contract_address and contract abi (abi1) in the '1-TOKEN-ONLINE-CREATE-TRANSACTION.py' script<br/>
 8. Create a transaction on a device with Internet access, run the script '1-BNB-ONLINE-CREATE-TRANSACTION.py'<br/>
 9. Copy the unsigned transaction 'UnsignedTransaction.txt'<br/>
 10. Paste 'UnsignedTransaction.txt' to the offline device<br/>
