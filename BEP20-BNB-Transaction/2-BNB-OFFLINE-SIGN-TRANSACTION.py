@@ -27,3 +27,4 @@ if __name__ == '__main__':
         signTx()
     except Exception as e:
         print(e)
+        pass
