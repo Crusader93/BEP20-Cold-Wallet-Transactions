@@ -46,6 +46,6 @@ Instructions:<br/>
 14. Run the script '3-BNB-ONLINE-SEND-TRANSACTION.py' on an online device<br/>
 15. DONE! Your signed transaction has been sent to the blockchain.<br/>
 <br/>
-You can support me (Binance Smart Chain BEP20/Etherium ERC20/Polygon): 0xB14C5988062cA9A301F3a31E3d69e4f1574Fd134 <br/>
-Tron: TRJHDgo6isHQCvZVmBA8KtPBKVwr8mqZbp
+You can support me (Binance Smart Chain BEP20/Etherium ERC20/Polygon): 0x9f7fD85da997C2ceC79124b17e12D900957cf184 <br/>
+Tron: TRaPjgketKEi4cg7rnJXM8Kj4xQeDxse95
 
