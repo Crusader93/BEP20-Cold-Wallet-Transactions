@@ -44,8 +44,5 @@ Instructions:<br/>
 12. Copy the signed transaction 'SignedTransaction.txt'<br/>
 13. Paste 'SignedTransaction.txt' to the online device<br/>
 14. Run the script '3-BNB-ONLINE-SEND-TRANSACTION.py' on an online device<br/>
-15. DONE! Your signed transaction has been sent to the blockchain.<br/>
-<br/>
-You can support me (Binance Smart Chain BEP20/Etherium ERC20/Polygon): 0x9f7fD85da997C2ceC79124b17e12D900957cf184 <br/>
-Tron: TRaPjgketKEi4cg7rnJXM8Kj4xQeDxse95
+15. DONE! Your signed transaction has been sent to the blockchain.
 
